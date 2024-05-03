@@ -1,7 +1,7 @@
 ### Hi there 👋
 -😄 I'm Benjamin Pan.\
 -🔭 Just a normal student.\
--💬 Keep hungry,keep foolish.\
+-💬 Keep hungry, keep foolish.\
 -🌎 BenjaminPan61618.github.io
 
 <!--
